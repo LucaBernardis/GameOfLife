@@ -1,0 +1,14 @@
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/GameOfLife/bin/Debug/net8.0/GameOfLife
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/GameOfLife/bin/Debug/net8.0/GameOfLife.deps.json
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/GameOfLife/bin/Debug/net8.0/GameOfLife.runtimeconfig.json
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/GameOfLife/bin/Debug/net8.0/GameOfLife.dll
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/GameOfLife/bin/Debug/net8.0/GameOfLife.pdb
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/GameOfLife/obj/Debug/net8.0/GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/GameOfLife/obj/Debug/net8.0/GameOfLife.AssemblyInfoInputs.cache
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/GameOfLife/obj/Debug/net8.0/GameOfLife.AssemblyInfo.cs
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/GameOfLife/obj/Debug/net8.0/GameOfLife.csproj.CoreCompileInputs.cache
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/GameOfLife/obj/Debug/net8.0/GameOfLife.dll
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/GameOfLife/obj/Debug/net8.0/refint/GameOfLife.dll
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/GameOfLife/obj/Debug/net8.0/GameOfLife.pdb
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/GameOfLife/obj/Debug/net8.0/GameOfLife.genruntimeconfig.cache
+/Users/lucabernardis/Desktop/ITS/Lezioni/OOP-C#/RiderCode/GameOfLife/obj/Debug/net8.0/ref/GameOfLife.dll
